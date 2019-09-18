@@ -1,0 +1,21 @@
+{
+  "name": "metalsmith-demo-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.1.9",
+    "handlebars": "^4.2.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-collections": "^0.9.0",
+    "metalsmith-markdown": "^1.2.0",
+    "metalsmith-permalinks": "^2.2.0",
+    "metalsmith-templates": "^0.7.0"
+  }
+}
